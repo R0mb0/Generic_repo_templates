@@ -2,7 +2,23 @@
 
 # Generic Repo Templates
 
+[![pages-build-deployment](https://github.com/R0mb0/Generic_repo_templates/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/R0mb0/Generic_repo_templates/actions/workflows/pages/pages-build-deployment)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/df35ba28f8c447119cdad9bcad4b60d9)](https://app.codacy.com/gh/R0mb0/Generic_repo_templates/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/R0mb0/Love_link_generator)
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/R0mb0/Love_link_generator)
+![License](https://img.shields.io/badge/license-CC0%201.0-blue.svg?style=plastic)
+
 **Ready-to-use community health files for any open source repository.**
+
+<div align="center">
+  <a href="http://paypal.me/R0mb0">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/R0mb0/Support_the_dev_badge/blob/main/Badge/SVG/Support_the_dev_badge_Dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/R0mb0/Support_the_dev_badge/blob/main/Badge/SVG/Support_the_dev_badge_Light.svg">
+      <img alt="Saved you time? Support the dev" src="https://github.com/R0mb0/Support_the_dev_badge/blob/main/Badge/SVG/Support_the_dev_badge_Default.svg">
+    </picture>
+  </a>
+</div>
 
 </div>
 
